@@ -13,7 +13,7 @@ class LanguageManger {
     
     private init() {}
     
-    /// Returns the currnet language
+    /// Returns the current language
     var currentLanguage: Languages {
         get {
             
@@ -54,7 +54,7 @@ class LanguageManger {
     }
 
     
-    /// Returns the diriction of the language
+    /// Returns the direction of the language
     var isRightToLeft: Bool {
         get {
             let lang = currentLanguage.rawValue

@@ -1,0 +1,16 @@
+/* 
+  Localizable.strings
+  MultiLanguage
+
+  Created by iDeveloper2 on 22/05/18.
+  Copyright © 2018 iDeveloper2. All rights reserved.
+*/
+"Test language" = "Test language";
+"Hello !!" = "Hello !!";
+"Hi all !" = "Hi all !";
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam." = "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.";
+"Change language" = "Change language";
+"Arabic" = "Arabic";
+"Welcome" = "Welcome";
+"Dismiss" = "Dismiss";
+"Next" = "Next";
